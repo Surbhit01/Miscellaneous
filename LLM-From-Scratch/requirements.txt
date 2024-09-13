@@ -1,0 +1,4 @@
+numpy
+tiktoken
+pillow
+torch==2.2.2
